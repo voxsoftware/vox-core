@@ -1,6 +1,6 @@
 ## vox-core
 
-[Página web](http://voxsoftware.github.io/vox-core/)
+
 vox-core contains sub-modules that facilitate the programming of other modules. The most notable is the HTTP/HTTPS server included based on express, dynamic file loading, transpilation from EcmaScript 7 to EcmaScript 5 among others.
 
 When I started to write *vox-core* I just started programming with node.js and my initial goal was to make a *copy* of some *.NET Framework* classes. However, this ceased to be a priority and in fact some modules that were thought of as a *copy* of *.NET* have been removed to favour standard *node.js* programming instead. 
@@ -9,7 +9,7 @@ Therefore the goal of vox-core at present is **to facilitate the development of 
 
 The main usage of vox-core is as a dependency for the module [kowix](https://gitlab.com/voxsoftware/kowix/tree/v2.x)
 
-Translated with www.DeepL.com/Translator
+
 
 ### SPANISH
 vox-core contiene unos submódulos que facilitan la programación en algunos aspectos. Lo más notable es el server HTTP/HTTPS incluido basado en express, carga dinámica de archivos, transpilación entre otros.
