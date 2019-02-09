@@ -1,2 +1,2 @@
 # vox-core-encoding
-System.Text.Encoding para vox-core
+System.Text.Encoding for vox-core

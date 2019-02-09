@@ -1,2 +1,6 @@
 # vox-core-http
-Diferentes utilidades Http para vox-core
+
+Express-based HTTP server and other HTTP utilities
+
+### SPANISH
+Servidor HTTP basado en express y otras utilidades HTTP
