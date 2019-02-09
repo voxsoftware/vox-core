@@ -1,0 +1,8 @@
+{
+	"VW":{
+		"readPath": "./src/VW/",
+		"Ecma2015": {
+			"readPath": "./src/VW/Ecma2015"
+		}
+	}
+}

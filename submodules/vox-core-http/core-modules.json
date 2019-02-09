@@ -1,0 +1,10 @@
+{
+	"VW":{
+		"Http": {
+			"readPath": "./src/VW/Http",
+			"StaticServe": {
+				"readPath": "./src/VW/Http/StaticServe"
+			}
+		}
+	}
+}

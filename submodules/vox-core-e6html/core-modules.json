@@ -1,0 +1,10 @@
+{
+	"VW":{
+		"E6Html":{
+			"readPath": "./src/VW/E6Html",
+			"Http":{
+				"readPath": "./src/VW/E6Html/Http"
+			}
+		}		
+	}
+}

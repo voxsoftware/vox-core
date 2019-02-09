@@ -1,0 +1,29 @@
+{
+
+	"name": "vox-core-http",
+  	"description": "Diferentes utilidades Http para vox-core",
+  	"version": "0.0.1",
+	"main":"main.js",
+	"license":"MIT",
+	"author": {
+	  "name": "James Suárez",
+	  "email": "xtreme.maicolxt94@gmail.com"
+	},
+	"dependencies":{
+		"request": "^2.69.0",
+		"express": "^4.13.4",
+		"body-parser": "^1.15.0",
+		"mime-types": "^2.1.13"
+	},
+	"maintainers": [
+	    {
+	      "name": "James",
+	      "email": "xtreme.maicolxt94@gmail"
+	    }
+
+	],
+	"repository": {
+	    "type": "git",
+	    "url": "https://github.com/voxsoftware/vox-core"
+	}	
+}

@@ -1,0 +1,7 @@
+{
+	"System":{
+		"Text":{
+			"readPath": "./src/System/Text"		
+		}
+	}
+}

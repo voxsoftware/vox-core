@@ -1,0 +1,19 @@
+
+
+clase James{
+
+    estatico main(){
+        console.log('James')
+    }
+
+    estatico asincrono sleep(){
+        local var1=10
+        console.log('time 1')
+        esperar core.VW.Task.sleep(2000)
+        console.log('time 2', var1)
+    }
+
+}
+
+
+James.sleep ()

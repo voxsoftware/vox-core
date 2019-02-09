@@ -1,0 +1,26 @@
+{
+	"name": "vox-core",
+	"description": "Runtime de aplicaciones multiplataforma",
+	"version": "0.8.0",
+	"main": "main.js",
+	"license": "MIT",
+	"author": {
+		"name": "James Suárez",
+		"email": "xtreme.maicolxt94@gmail.com"
+	},
+	"dependencies": {
+	},
+	"preferGlobal": false,
+	"scripts": {},
+	"maintainers": [
+		{
+			"name": "James",
+			"email": "xtreme.maicolxt94@gmail"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/voxsoftware/vox-core",
+		"branch": "0.2.x"
+	}
+}

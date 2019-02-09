@@ -1,0 +1,7 @@
+{
+	"System":{
+		"IO":{
+			"readPath": "./src/System/IO"		
+		}
+	}
+}

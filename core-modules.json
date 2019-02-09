@@ -1,0 +1,51 @@
+{
+	"VW":{
+		"readPath": "./VW",
+		"CommandLine":{
+			"readPath": "./VW/CommandLine"
+		},
+		"Http":{
+			"readPath": "./VW/Http"
+		},
+		"IPC":{
+			"readPath": "./VW/IPC"
+		},
+		"Ecma2015":{
+			"readPath": "./VW/Ecma2015"
+		},
+		"E6Html":{
+			"readPath": "./VW/E6Html",
+			"Http":{
+				"readPath": "./VW/E6Html/Http"
+			}
+		},
+		"Clr":{
+			"readPath": "./VW/Clr"
+		}
+
+	},
+	"System":{
+		"readPath": "./System",
+		"Security":{
+			"Cryptography":{
+				"X509Certificates":{
+					"readPath":"./SSCX"
+				}
+			}
+		},
+		"Globalization":{
+			"readPath": "./System.Globalization"
+		},
+		"IO":{
+			"readPath":"./System.IO"
+		},
+		"Text":{
+			"readPath":"./System.Text"
+		}
+	},
+	"Microsoft":{
+		"Win32":{
+			"readPath":"./Microsoft.Win32"
+		}
+	}
+}

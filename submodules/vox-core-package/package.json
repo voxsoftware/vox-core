@@ -1,0 +1,27 @@
+{
+
+	"name": "vox-core-package",
+  	"description": "Módulo de vox-core, que permite empaquetar módulos nodejs en un único archivo KLL",
+  	"version": "0.0.1",
+	"main":"main.js",
+	"license":"MIT",
+	"author": {
+	  "name": "James Suárez",
+	  "email": "xtreme.maicolxt94@gmail.com"
+	},
+	"dependencies":{
+
+
+	},
+	"maintainers": [
+	    {
+	      "name": "James",
+	      "email": "xtreme.maicolxt94@gmail"
+	    }
+
+	],
+	"repository": {
+	    "type": "git",
+	    "url": "https://github.com/voxsoftware/vox-core"
+	}
+}

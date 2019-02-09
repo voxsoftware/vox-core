@@ -1,0 +1,27 @@
+{
+
+	"name": "vox-core-runtime",
+  	"description": "Algunos elementos del runtime vox-core (Console,InteractiveMode, ...)",
+  	"version": "0.0.1",
+	"main":"main.js",
+	"license":"MIT",
+	"author": {
+	  "name": "James Suárez",
+	  "email": "xtreme.maicolxt94@gmail.com"
+	},
+	"dependencies":{
+		"chalk": "^1.1.3",
+		"vox-install":">=0.0.1"
+	},
+	"maintainers": [
+	    {
+	      "name": "James",
+	      "email": "xtreme.maicolxt94@gmail"
+	    }
+
+	],
+	"repository": {
+	    "type": "git",
+	    "url": "https://github.com/voxsoftware/vox-core"
+	}
+}

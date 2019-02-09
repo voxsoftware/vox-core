@@ -1,0 +1,10 @@
+{
+	"VW":{
+		"readPath": "./src/VW/"
+	},
+	"System":{
+		"Compression":{
+			"readPath": "./src/System/Compression/"		
+		}
+	}
+}

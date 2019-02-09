@@ -1,0 +1,8 @@
+{
+	"VW":{
+		"readPath": "./src/VW/"		
+	},
+	"System":{
+		"readPath": "./src/System/"			
+	}
+}

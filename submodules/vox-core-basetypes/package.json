@@ -1,0 +1,25 @@
+{
+
+	"name": "vox-core-basetypes",
+  	"description": "Tipos base de vox-core (como Int64,Byte,Char)",
+  	"version": "0.0.1",
+	"main":"main.js",
+	"license":"MIT",
+	"author": {
+	  "name": "James Suárez",
+	  "email": "xtreme.maicolxt94@gmail.com"
+	},
+	"dependencies":{
+	},
+	"maintainers": [
+	    {
+	      "name": "James",
+	      "email": "xtreme.maicolxt94@gmail"
+	    }
+
+	],
+	"repository": {
+	    "type": "git",
+	    "url": "https://github.com/voxsoftware/vox-core"
+	}
+}

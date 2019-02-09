@@ -1,0 +1,11 @@
+{
+	"VW":{
+		"readPath": "./src/VW/",
+		"CommandLine":{
+			"readPath": "./src/VW/CommandLine"
+		}
+	},
+	"System":{
+		"readPath": "./src/System/"	
+	}
+}

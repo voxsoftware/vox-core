@@ -1,0 +1,27 @@
+{
+
+	"name": "vox-core-es6",
+  	"description": "Transforme código ES6 a ES5 y Async/Await en tiempo de ejecución",
+  	"version": "0.0.1",
+	"main":"main.js",
+	"license":"MIT",
+	"author": {
+	  "name": "James Suárez",
+	  "email": "xtreme.maicolxt94@gmail.com"
+	},
+	"dependencies":{
+		"symbol": "^0.2.1",
+		"escodegen": "^1.8.0"
+	},
+	"maintainers": [
+	    {
+	      "name": "James",
+	      "email": "xtreme.maicolxt94@gmail"
+	    }
+
+	],
+	"repository": {
+	    "type": "git",
+	    "url": "https://github.com/voxsoftware/vox-core-es6"
+	}
+}

@@ -1,0 +1,24 @@
+
+
+# Módulos de comunicación con plataformas .NET y Java
+submodules/vox-core-clr
+submodules/vox-core-jvm
+submodules/vox-core-lrp
+submodules/vox-regedit
+
+
+vox
+voxw.exe.config
+voxw.exe
+
+*.md
+*.MD
+LICENSE
+
+
+# Ignorar las carpetas test tests examples
+test
+tests
+examples
+
+node_modules/vox-install
